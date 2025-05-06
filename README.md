@@ -1,4 +1,4 @@
-# application-Dashboard-collaboratif-de-visualisation-et-d-analyse-de-donnes
+# application-Dashboard-collaboratif-
 
 # 🚀 Guide d'installation - Dashboard collaboratif
 
