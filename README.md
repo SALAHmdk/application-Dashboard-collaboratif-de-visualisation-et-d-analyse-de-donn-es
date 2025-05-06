@@ -1,8 +1,5 @@
 # application-Dashboard-collaboratif-de-visualisation-et-d-analyse-de-donnes
-🧾 GUIDE_D_INSTALLATION.md
-markdown
-Copier
-Modifier
+
 # 🚀 Guide d'installation - Dashboard collaboratif
 
 ## 📌 Technologies utilisées
@@ -110,3 +107,4 @@ Bonne gestion des types JSON si besoin.
 Le token est utilisé pour sécuriser les routes /upload, etc.
 
 Stocké côté client et envoyé dans les headers.
+# Lunch.bat pour lancer directement le tout
