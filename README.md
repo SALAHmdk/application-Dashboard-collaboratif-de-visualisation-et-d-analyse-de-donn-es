@@ -1,5 +1,5 @@
 # application-Dashboard-collaboratif-de-visualisation-et-d-analyse-de-donnes
-🧾 GUIDE_D_INSTALLATION.md (mis à jour)
+🧾 GUIDE_D_INSTALLATION.md
 markdown
 Copier
 Modifier
